@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+/* Header Section */
+header {
+    background-image: url("mahira.jpg");
+    height: 100vh;
+}
+
+.top {
+    color: white;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+    word-spacing: 6px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.first {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -120px;
+    margin-right: 13px;
+    color: white;
+}
+
+.pad {
+    padding: 30px;
+    word-spacing: 20px;
+}
+
+.logo-1 {
+    margin-top: -30px;
+}
+
+/* Banner Text */
+.summer {
+    color: white;
+    margin-top: -450px;
+    text-align: right;
+    margin-right: 60px;
+    font-size: 28px;
+    font-family: 'Bree Serif', serif;
+}
+
+/* Welcome Section */
+.section-1 {
+    background-color: #ea4c89;
+    color: white;
+    height: 150px;
+    text-align: center;
+    margin-top: 200px;
+    padding: 30px;
+    font-family: 'Cuprum', sans-serif;
+}
+
+/* Trends Section */
+.trends {
+    text-align: center;
+    font-family: 'Cuprum', sans-serif;
+}
+
+.section-2 {
+    background-color: white;
+    text-align: center;
+    height: 150px;
+}
+
+/* Footer Section */
+li {
+    list-style-type: none;
+    font-family: 'Philosopher', sans-serif;
+}
+
+
+
+.last {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(100, 95, 95);
+    font-size: 16px;
+    color: white;
+}
+
+
+.logo {
+    float: right;
+    margin-top: -120px;
+}
+
+.head {
+    padding-left: -10px;
+}
+
+
+
+
+
+
+
+
+
